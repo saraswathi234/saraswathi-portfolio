@@ -1,0 +1,30 @@
+body{    
+   background-color:yello;
+}
+h1{
+	color:red;
+	padding-bottom:50px;
+	font-size:30px;
+	display:flex;
+}
+h2{
+	color:Hotpink;
+	font-family:italic;
+	
+}
+p{
+   color:blue;
+  text-decoration:right;
+
+}
+.img{    
+    width:400px;
+	height:350px;
+	display:flex;
+	padding-bottom:circle;
+	margin-left: 50px;
+}
+
+
+
+ 
